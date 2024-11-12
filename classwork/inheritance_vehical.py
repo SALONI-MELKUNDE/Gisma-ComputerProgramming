@@ -12,11 +12,11 @@ class Car(Vehicle):
         super().__init__(make, model)
         self.year = year
 
-    def get_info(self):
+    def get_info(self): 
         return f"Make: {self.make}, Model: {self.model}, Year: {self.year}"
 
 
-class Motorcycle(Vehicle):
+class Motorcycle(Vehicle): 
     def __init__(self, make, model, year):
         super().__init__(make, model)
         self.year = year
