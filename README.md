@@ -1,6 +1,6 @@
-M602BComputerProgramming
+# M602BComputerProgramming
 
-Classwork and practise 
+Classwork and practice
 
 # Description
 
